@@ -1,0 +1,17 @@
+{
+  "valid": false,
+  "version": "2.1.0",
+  "timestamp": 1560344859451,
+  "context": "src/client",
+  "output": {
+    "path": "/",
+    "filename": "[name].bundle.dev.js",
+    "publicPath": "http://localhost:2992/js/"
+  },
+  "webpackDev": {
+    "skipSetEnv": false,
+    "url": "http://localhost:2992",
+    "addUrl": false
+  },
+  "isWebpackDev": true
+}

@@ -1,0 +1,29 @@
+{
+  "name": "quick-start-component",
+  "version": "0.0.1",
+  "description": "quick-start-component-component",
+  "author": {
+    "name": "pantao",
+    "url": "https://github.com/pantao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parcmg/.git"
+  },
+  "bugs": {
+    "url": "https://github.com/parcmg//issues"
+  },
+  "homepage": "https://github.com/parcmg/",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "test": "lerna run test",
+    "publish": "lerna publish"
+  },
+  "dependency": {},
+  "devDependencies": {
+    "lerna": "^2.8.0",
+    "lodash": "^4.10.1",
+    "xclap": "^0.2.0"
+  },
+  "private": true
+}

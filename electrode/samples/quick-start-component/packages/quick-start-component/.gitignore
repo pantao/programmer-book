@@ -222,6 +222,7 @@ fastlane/screenshots
 *.class
 
 # Generated files
+bin/
 gen/
 
 # Gradle files
@@ -316,6 +317,7 @@ fabric.properties
 ### Eclipse ###
 *.pydevproject
 .metadata
+bin/
 tmp/
 *.tmp
 *.bak
@@ -500,11 +502,9 @@ sauce_connect*.txt
 *.dmp
 
 ### Walmart Projects ###
+lib
 dist
 tmp
-
-### gitbook ###
-_book
 
 ###############################################################################
 #########################_WALMART_STANDARD_GITIGNORE_##########################
@@ -512,8 +512,3 @@ _book
 #  All changes made above this line are subject to overwrites as the standard #
 #      .gitignore evolves. Please add any project specific ignores below.     #
 ###############################################################################
-
-.nyc_output
-fyn-lock.yaml
-package-lock.json
-yarn.lock

@@ -1,0 +1,70 @@
+{
+  "assetsByChunkName": {
+    "main": [
+      "main.style.7f58a7422e7e63200a87.css",
+      "main.style.css",
+      "main.bundle.dev.js",
+      "main.1ff07ade8ec05b40c6b5.hot-update.js"
+    ]
+  },
+  "assets": [
+    {
+      "name": "1ff07ade8ec05b40c6b5.hot-update.json",
+      "size": 46,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": false
+    },
+    {
+      "name": "2b7ac2d4ff91cca5b9c8e742eda58b24.png",
+      "size": 5402,
+      "chunks": [],
+      "chunkNames": [],
+      "emitted": true
+    },
+    {
+      "name": "main.1ff07ade8ec05b40c6b5.hot-update.js",
+      "size": 2518,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "main.bundle.dev.js",
+      "size": 3580410,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "main.style.7f58a7422e7e63200a87.css",
+      "size": 12249,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": false
+    },
+    {
+      "name": "main.style.css",
+      "size": 12221,
+      "chunks": [
+        "main"
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": false
+    }
+  ]
+}
