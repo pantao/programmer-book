@@ -9,45 +9,45 @@
   - [必备条件](overview/requirements.md)
   - [什么是 Archetypes？](/overview/what-are-archetypes.md)
 - 开始
-  - [从 Electrode Ignite 开始](/chapter1/quick-start/start-with-ignite.md)
-  - [创建 Electrode 应用](/chapter1/quick-start/start-with-app.md)
-  - [创建一个 Electrode 组件](/chapter1/quick-start/start-with-component.md)
+  - [从 Electrode Ignite 开始](quick-start/start-with-ignite.md)
+  - [创建 Electrode 应用](quick-start/start-with-app.md)
+  - [创建一个 Electrode 组件](quick-start/start-with-component.md)
 - Electrode 应用
-  - [Build Your App](/chapter1/further-develop-app/build-app.md)
-  - [What's Inside](/chapter1/further-develop-app/whats-inside.md)
-  - [Deploy Your App](/chapter1/further-develop-app/deploy-your-app.md)
+  - [Build Your App](further-develop-app/build-app.md)
+  - [What's Inside](further-develop-app/whats-inside.md)
+  - [Deploy Your App](further-develop-app/deploy-your-app.md)
 - Electrode Components
-  - [Low-Level Components](/chapter1/further-develop-component/low-level-components.md)
-  - [Component Helpers](/chapter1/further-develop-component/component-helpers.md)
-  - [Develop Styles](/chapter1/further-develop-component/develop-styles.md)
+  - [Low-Level Components](further-develop-component/low-level-components.md)
+  - [Component Helpers](further-develop-component/component-helpers.md)
+  - [Develop Styles](further-develop-component/develop-styles.md)
   - [Develop Main Component](chapter1/further-develop-component/develop-main-component.md)
-  - [Add Components to Demo App](/chapter1/further-develop-component/add-to-demo-app.md)
-  - [Build and Demo](/chapter1/further-develop-component/build-and-demo.md)
-  - [Test Components](/chapter1/further-develop-component/test-components.md)
+  - [Add Components to Demo App](further-develop-component/add-to-demo-app.md)
+  - [Build and Demo](further-develop-component/build-and-demo.md)
+  - [Test Components](further-develop-component/test-components.md)
 
 ### Intermediate
 
 - Application Archetype
-  - [About](/chapter1/intermediate/app-archetype/README.md)
-  - [Customize Config](/chapter1/intermediate/app-archetype/customize-config.md)
-  - [Eslint Config](/chapter1/intermediate/app-archetype/eslint.md)
-  - [Webpack Config](/chapter1/intermediate/app-archetype/webpack-config.md)
-  - [Environment Variables](/chapter1/intermediate/app-archetype/env-vars.md)
+  - [About](intermediate/app-archetype/README.md)
+  - [Customize Config](intermediate/app-archetype/customize-config.md)
+  - [Eslint Config](intermediate/app-archetype/eslint.md)
+  - [Webpack Config](intermediate/app-archetype/webpack-config.md)
+  - [Environment Variables](intermediate/app-archetype/env-vars.md)
   - [Consuming Webpack DLL](chapter1/intermediate/app-archetype/load-dll.md)
-  - [Extract Styles](/chapter1/intermediate/app-archetype/extract-styles.md)
-  - [Unit Tests](/chapter1/intermediate/app-archetype/unit-tests.md)
+  - [Extract Styles](intermediate/app-archetype/extract-styles.md)
+  - [Unit Tests](intermediate/app-archetype/unit-tests.md)
 - Component Archetype
-  - [About](/chapter1/intermediate/component-archetype/README.md)
-  - [Structure](/chapter1/intermediate/component-archetype/component-archetype-structure.md)
-  - [Webpack Config](/chapter1/intermediate/component-archetype/webpack-config.md)
-  - [Extract Styles](/chapter1/intermediate/component-archetype/extract-styles.md)
-  - [Unit Tests](/chapter1/intermediate/component-archetype/unit-tests.md)
+  - [About](intermediate/component-archetype/README.md)
+  - [Structure](intermediate/component-archetype/component-archetype-structure.md)
+  - [Webpack Config](intermediate/component-archetype/webpack-config.md)
+  - [Extract Styles](intermediate/component-archetype/extract-styles.md)
+  - [Unit Tests](intermediate/component-archetype/unit-tests.md)
 - DLL Archetype
   - [About](chapter1/intermediate/dll-archetype/README.md)
 - Flow and TypeScript
   - [About](chapter1/intermediate/languages/README.md)
-  - [Working with Flow](/chapter1/intermediate/flow.md)
-  - [Flow FAQ](/chapter1/intermediate/flow-faq.md)
+  - [Working with Flow](intermediate/flow.md)
+  - [Flow FAQ](intermediate/flow-faq.md)
 
 ### Guides
 

@@ -14,7 +14,7 @@ Electrode 有两个主要的 archetypes ：
 
 - **[Electrode Component Archetype]** 用于帮助你创建可复用的 React 组件
 
-> 将你的 Electrode 应用部署到云上只需要几分钟的时间，阅读 [**快速指引**](../chapter1/quick-start/start-with-ignite.md) 了解更多。
+> 将你的 Electrode 应用部署到云上只需要几分钟的时间，阅读 [**快速指引**](../quick-start/start-with-ignite.md) 了解更多。
 
 ## 功能
 
@@ -60,9 +60,9 @@ Electrode 有两个主要的 archetypes ：
 
 ### 独立模块：作你所期望的优化
 
-Electrode 提供了许多有用的模块来完成常见的任务和功能，不管是 [服务端渲染缓存](../chapter1/advanced/stand-alone-modules/server-side-render-caching-+-profiling.md) 还是 [灵活的配置管理](../chapter1/advanced/stand-alone-modules/confippet.md)，这些模块不只是 Electrode 的一部分，它们同样的还[可以被独立的在你已有的项目中使用](../chapter1/advanced/stand-alone-modules.md).
+Electrode 提供了许多有用的模块来完成常见的任务和功能，不管是 [服务端渲染缓存](../advanced/stand-alone-modules/server-side-render-caching-+-profiling.md) 还是 [灵活的配置管理](../advanced/stand-alone-modules/confippet.md)，这些模块不只是 Electrode 的一部分，它们同样的还[可以被独立的在你已有的项目中使用](../advanced/stand-alone-modules.md).
 
-> 了解更多可以阅读 [**独立模块指引**](../chapter1/advanced/stand-alone-modules.md).
+> 了解更多可以阅读 [**独立模块指引**](../advanced/stand-alone-modules.md).
 
 ---
 
@@ -70,11 +70,11 @@ Electrode 提供了许多有用的模块来完成常见的任务和功能，不�
 
 Electrode 还有很多可以与其它构建平台一起使用的工具（当与 Electrode 使用时，它们会需要更少的配置），这些工具可以帮助你：
 
-- 支持 [discovery of reusable components](../chapter1/advanced/powerful-electrode-tools/electrode-explorer.md)
+- 支持 [discovery of reusable components](../advanced/powerful-electrode-tools/electrode-explorer.md)
 
-- 优化你的 [JavaScript bundles](../chapter1/advanced/powerful-electrode-tools/electrify.md)
+- 优化你的 [JavaScript bundles](../advanced/powerful-electrode-tools/electrify.md)
 
-> 开始在你的项目中使用 [**Electrode Explorer** ](../chapter1/advanced/powerful-electrode-tools/electrode-explorer.md) 和 [**Electrify**](../chapter1/advanced/powerful-electrode-tools/electrify.md) 
+> 开始在你的项目中使用 [**Electrode Explorer** ](../advanced/powerful-electrode-tools/electrode-explorer.md) 和 [**Electrify**](../advanced/powerful-electrode-tools/electrify.md) 
 
 ## 使用与支持的技术
 
@@ -110,7 +110,7 @@ Electrode 还有很多可以与其它构建平台一起使用的工具（当与 
 [chrome headless]: https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md
 [phantomjs]: http://phantomjs.org/
 [postcss]: https://github.com/postcss/postcss
-[electrode archetype system]: ../chapter1/quick-start/what-are-archetypes.md
+[electrode archetype system]: ../quick-start/what-are-archetypes.md
 [electrode component archetype]: https://github.com/electrode-io/electrode/tree/master/packages/electrode-archetype-react-component
 [electrode application archetype]: https://github.com/electrode-io/electrode/tree/master/packages/electrode-archetype-react-app
 [inferno]: https://infernojs.org/

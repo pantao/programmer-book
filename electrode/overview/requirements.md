@@ -46,7 +46,7 @@ Headless chrome 将所有 Chromium 与 Blink 提供的现在 Web 功能引入命
 - 一个 [Heroku](https://signup.heroku.com/dc) 帐号 + [CLI tools](https://devcenter.heroku.com/articles/heroku-command-line)
 - 一个 [GitHub](https://github.com/) 帐号
 
-现在，就让我们开始 [构建第一个 Electrode 应用](../chapter1/quick-start/start-with-app.md).
+现在，就让我们开始 [构建第一个 Electrode 应用](../quick-start/start-with-app.md).
 
 [yo]: http://yeoman.io/
 
