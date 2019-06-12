@@ -25,7 +25,7 @@
   - [Build and Demo](further-develop-component/build-and-demo.md)
   - [Test Components](further-develop-component/test-components.md)
 
-### Intermediate
+## Intermediate
 
 - Application Archetype
   - [About](intermediate/app-archetype/README.md)
@@ -49,7 +49,7 @@
   - [Working with Flow](intermediate/flow.md)
   - [Flow FAQ](intermediate/flow-faq.md)
 
-### Guides
+## Guides
 
 - General
   - [Developing and debugging](guides/dev-and-debug.md)
@@ -66,7 +66,7 @@
   - [Migrating to webpack dev middleware](guides/webpack-dev-middleware.md)
   - [Migrating to webpack 4](guides/webpack4.md)
 
-### Other
+## Other
 
 - [Stand Alone Modules](chapter1/advanced/stand-alone-modules.md)
   - [Confippet](chapter1/advanced/stand-alone-modules/confippet.md)
@@ -80,13 +80,13 @@
   - [Bundle Analyzer](chapter1/advanced/powerful-electrode-tools/bundle-analyzer.md)
   - [React Native and Over the Air](chapter1/over-the-air/react-native-and-over-the-air.md)
 
-### Contribute
+## Contribute
 
 - [Contributing](contributing.md)
   - [Contribute](contribute.md)
   - [Community](community.md)
 
-### Resources
+## Resources
 
 - [Resources](resources.md)
   - [Further Reading](resources/further-reading.md)
