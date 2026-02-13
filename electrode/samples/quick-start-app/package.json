@@ -59,6 +59,6 @@
     "react-router-dom": "^4.3.1"
   },
   "devDependencies": {
-    "electrode-archetype-react-app-dev": "^6.0.0"
+    "electrode-archetype-react-app-dev": "^6.5.23"
   }
 }
